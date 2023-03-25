@@ -1,0 +1,1394 @@
+{
+  "step 1": {
+    "id": 1,
+    "label": "Intérêts et activités",
+    "questions": [
+      {
+        "profil": "Realite",
+        "code": "R",
+        "description": "il est débrouillard et pragmatique. Le réaliste aime le concret, le terrain.",
+        "questions": [
+          {
+            "code": "ia1",
+            "statement": "Planter, entretenir des arbres, des arbustes, des fleurs ou cultiver le sol."
+          },
+          {
+            "code": "ia2",
+            "statement": "Faire de la couture."
+          },
+          {
+            "code": "ia3",
+            "statement": "Effectuer des réparations électriques ou électroniques."
+          },
+          {
+            "code": "ia4",
+            "statement": "Réparer des automobiles."
+          },
+          {
+            "code": "ia5",
+            "statement": "Fabriquer des objets avec du bois."
+          },
+          {
+            "code": "ia6",
+            "statement": "Conduire un camion ou un tracteur."
+          },
+          {
+            "code": "ia7",
+            "statement": "Faire des déménagements."
+          },
+          {
+            "code": "ia8",
+            "statement": "Entretenir ou réparer de la plomberie ou des systèmes de ventilation."
+          },
+          {
+            "code": "ia9",
+            "statement": "Travailler avec des animaux et en prendre soin."
+          },
+          {
+            "code": "ia10",
+            "statement": "Travailler à l’extérieur (exposer à la pluie, au soleil, au froid)."
+          },
+          {
+            "code": "ia11",
+            "statement": "Travailler avec de la machinerie."
+          },
+          {
+            "code": "ia12",
+            "statement": "Préparer des repas, des banquets."
+          },
+          {
+            "code": "ia13",
+            "statement": "Travailler avec des outils tels que tournevis, ciseaux, pince, etc."
+          },
+          {
+            "code": "ia14",
+            "statement": "Effectuer des travaux de peinture."
+          },
+          {
+            "code": "ia5",
+            "statement": "Suivre un cours de dessin mécanique."
+          }
+        ]
+      },
+      {
+        "profil": "Investigateur",
+        "code": "I",
+        "description": "C’est un intellectuel, il est curieux et analytique. L’investigateur aime résoudre des problèmes, a besoin de comprendre. Il est à l’aise avec les connaissances théoriques",
+        "questions": [
+          {
+            "code": "ia1",
+            "statement": "Lire des revues scientifiques ou spécialisées."
+          },
+          {
+            "code": "ia2",
+            "statement": "Faire des expériences sur le comportement des animaux."
+          },
+          {
+            "code": "ia3",
+            "statement": "Effectuer des analyses en laboratoire."
+          },
+          {
+            "code": "ia4",
+            "statement": "Suivre des cours de sciences."
+          },
+          {
+            "code": "ia5",
+            "statement": "Établir un diagnostic de maladie chez des patients."
+          },
+          {
+            "code": "ia6",
+            "statement": "Expérimenter de nouvelles cultures végétales."
+          },
+          {
+            "code": "ia7",
+            "statement": "Créer une nouvelle source d’énergie."
+          },
+          {
+            "code": "ia8",
+            "statement": "Concevoir un barrage électrique, un pont, une autoroute, etc."
+          },
+          {
+            "code": "ia9",
+            "statement": "Résoudre des problèmes mathématiques."
+          },
+          {
+            "code": "ia10",
+            "statement": "Faire des recherches scientifiques pour satisfaire ma curiosité."
+          },
+          {
+            "code": "ia11",
+            "statement": "Produire un rapport sur l’évolution économique d’une région."
+          },
+          {
+            "code": "ia12",
+            "statement": "Concevoir un plan de reboisement."
+          },
+          {
+            "code": "ia13",
+            "statement": "Planifier des soins ou des traitements à donner à des patients."
+          },
+          {
+            "code": "ia14",
+            "statement": "Faire des recherches sur les civilisations anciennes."
+          },
+          {
+            "code": "ia5",
+            "statement": "Faire de la programmation informatique."
+          }
+        ]
+      },
+      {
+        "profil": "Artiste",
+        "code": "A",
+        "description": "Il agit par rapport à ce qu’il ressent, il a de l’intuition. L’artiste aime créer, est non conformiste. Il a besoin d’un environnement de travail différent et apprend par l’expérimentation.",
+        "questions": [
+          {
+            "code": "a1",
+            "statement": "S’engager dans des organismes sociaux ou communautaires."
+          },
+          {
+            "code": "a2",
+            "statement": "Rencontrer des gens pour les aider à résoudre leurs problèmes personnels."
+          },
+          {
+            "code": "a3",
+            "statement": "Travailler dans une garderie d’enfants."
+          },
+          {
+            "code": "a4",
+            "statement": "Enseigner aux enfants, aux adolescents, aux adultes"
+          },
+          {
+            "code": "a5",
+            "statement": "Aider les gens à prendre conscience de leurs possibilités."
+          },
+          {
+            "code": "a6",
+            "statement": "Animer un groupe."
+          },
+          {
+            "code": "a7",
+            "statement": "Tenir un kiosque d’information."
+          },
+          {
+            "code": "a8",
+            "statement": "Agir comme hôte / hôtesse lors d’un congrès."
+          },
+          {
+            "code": "a9",
+            "statement": "Concevoir un barrage électrique, un pont, une autoroute, etc."
+          },
+          {
+            "code": "a10",
+            "statement": "Consulter les gens sur leurs besoins (sondage, enquête, etc.)."
+          },
+          {
+            "code": "a11",
+            "statement": "S’occuper des personnes handicapées physiquement."
+          },
+          {
+            "code": "a12",
+            "statement": "Soigner un malade."
+          },
+          {
+            "code": "a13",
+            "statement": "Aider les délinquants à se réhabiliter."
+          },
+          {
+            "code": "a14",
+            "statement": "Organiser des loisirs."
+          },
+          {
+            "code": "a15",
+            "statement": "Faire de la programmation informatique."
+          }
+        ]
+      },
+      {
+        "profil": "Social",
+        "code": "S",
+        "description": "Il agit par rapport à ce qu’il ressent, il a de l’intuition. L’artiste aime créer, est non conformiste. Il a besoin d’un environnement de travail différent et apprend par l’expérimentation.",
+        "questions": [
+          {
+            "code": "s1",
+            "statement": "Vendre un produit ou une idée."
+          },
+          {
+            "code": "a2",
+            "statement": "Mettre sur pied son propre commerce."
+          },
+          {
+            "code": "a3",
+            "statement": "Donner des conférence."
+          },
+          {
+            "code": "a4",
+            "statement": "Acheter pour le compte d’un grand magasin."
+          },
+          {
+            "code": "a5",
+            "statement": "Marchander."
+          },
+          {
+            "code": "a6",
+            "statement": "Diriger du personnel."
+          },
+          {
+            "code": "a7",
+            "statement": "Défendre une cause."
+          },
+          {
+            "code": "a8",
+            "statement": "Faire de la sélection de candidats."
+          },
+          {
+            "code": "a9",
+            "statement": "S’engager à fond dans des activités sociales au travail ou dans son quartier"
+          },
+          {
+            "code": "a10",
+            "statement": "Diriger une entreprise financière."
+          },
+          {
+            "code": "a11",
+            "statement": "Lancer un nouveau produit."
+          },
+          {
+            "code": "a12",
+            "statement": "Fonder un club de consommateurs, une association de protection de l’environnement, une activité de récupération de papier."
+          },
+          {
+            "code": "a13",
+            "statement": "Gérer un projet spécial."
+          },
+          {
+            "code": "a14",
+            "statement": "Faire de la politique (municipal, scolaire, provincial)"
+          },
+          {
+            "code": "a15",
+            "statement": "Lancer un concours de promotion, une campagne de publicité."
+          }
+        ]
+      },
+      {
+        "profil": "Entrepreneur",
+        "code": "E",
+        "description": "Il agit par rapport à ce qu’il ressent, il a de l’intuition. L’artiste aime créer, est non conformiste. Il a besoin d’un environnement de travail différent et apprend par l’expérimentation.",
+        "questions": [
+          {
+            "code": "s1",
+            "statement": "Vendre un produit ou une idée."
+          },
+          {
+            "code": "a2",
+            "statement": "Mettre sur pied son propre commerce."
+          },
+          {
+            "code": "a3",
+            "statement": "Donner des conférences."
+          },
+          {
+            "code": "a4",
+            "statement": "Acheter pour le compte d’un grand magasin."
+          },
+          {
+            "code": "a5",
+            "statement": "Marchander."
+          },
+          {
+            "code": "a6",
+            "statement": "Diriger du personnel."
+          },
+          {
+            "code": "a7",
+            "statement": "Défendre une cause."
+          },
+          {
+            "code": "a8",
+            "statement": "Faire de la sélection de candidats."
+          },
+          {
+            "code": "a9",
+            "statement": "S’engager à fond dans des activités sociales au travail ou dans son quartier."
+          },
+          {
+            "code": "a10",
+            "statement": "Diriger une entreprise financière."
+          },
+          {
+            "code": "a11",
+            "statement": "Lancer un nouveau produit."
+          },
+          {
+            "code": "a12",
+            "statement": "Fonder un club de consommateurs, une association de protection de l’environnement, une activité de récupération de papier."
+          },
+          {
+            "code": "a13",
+            "statement": " Gérer un projet spécial."
+          },
+          {
+            "code": "a14",
+            "statement": " Faire de la politique (municipal, scolaire, provincial)"
+          },
+          {
+            "code": "a15",
+            "statement": "Lancer un concours de promotion, une campagne de publicité."
+          }
+        ]
+      },
+      {
+        "profil": "Conventionnel",
+        "code": "C",
+        "description": "Il est ordonné, méticuleux. Il est structuré, procédurier, aime le travail de bureau. Le conventionnel a besoin de consignes et de méthodes pour apprendre.",
+        "questions": [
+          {
+            "code": "s1",
+            "statement": "Établir des comptes-rendus des dépenses."
+          },
+          {
+            "code": "a2",
+            "statement": "Préparer des procès verbaux de réunions."
+          },
+          {
+            "code": "a3",
+            "statement": "Tenir une caisse dans un établissement commercial ou financier."
+          },
+          {
+            "code": "a4",
+            "statement": "Faire un inventaire et passer des commandes."
+          },
+          {
+            "code": "a5",
+            "statement": "Manipuler un appareil à traitement de textes."
+          },
+          {
+            "code": "a6",
+            "statement": "Maintenir un système de classement (archive, bibliothèque, bureau, etc.)"
+          },
+          {
+            "code": "a7",
+            "statement": "Garder mon espace de travail à l’ordre."
+          },
+          {
+            "code": "a8",
+            "statement": "Faire des opérations mathématiques pour préparer des rapports ou faire la tenue de livres."
+          },
+          {
+            "code": "a9",
+            "statement": "S’adonner à des activités régulières."
+          },
+          {
+            "code": "a10",
+            "statement": "Classer des lettres, des rapports, des dossiers."
+          },
+          {
+            "code": "a11",
+            "statement": "Recevoir et faire des appels téléphoniques."
+          },
+          {
+            "code": "a12",
+            "statement": " Vérifier des rapports financiers."
+          },
+          {
+            "code": "a13",
+            "statement": "Faire fonctionner toutes sortes de machines de bureau."
+          },
+          {
+            "code": "a14",
+            "statement": "Effectuer des tâches clairement définies."
+          },
+          {
+            "code": "a15",
+            "statement": "Dactylographier ou réviser des lettres ou des rapports."
+          }
+        ]
+      }
+    ]
+  },
+  "step 2":  {
+    "id": 2,
+    "label": "Intérêts et occupations",
+    "questions": [
+      {
+        "profil": "Realite",
+        "code": "R",
+        "description": "il est débrouillard et pragmatique. Le réaliste aime le concret, le terrain.",
+        "questions": [
+          {
+            "code": "ia1",
+            "statement": " Mécanicien / mécanicienne d’auto."
+          },
+          {
+            "code": "ia2",
+            "statement": "Éleveur / éleveuse de bétails."
+          },
+          {
+            "code": "ia3",
+            "statement": "Technicien / technicienne dentaire."
+          },
+          {
+            "code": "ia4",
+            "statement": "Travailleur / travailleuse de la construction (menuiserie)."
+          },
+          {
+            "code": "ia5",
+            "statement": "Couturier / couturière en usine."
+          },
+          {
+            "code": "ia6",
+            "statement": "Technicien / technicienne en aménagement de la faune."
+          },
+          {
+            "code": "ia7",
+            "statement": "Horloger / horlogère."
+          },
+          {
+            "code": "ia8",
+            "statement": "Technicien / technicienne du meuble et du bois ouvré (ébéniste)."
+          },
+          {
+            "code": "ia9",
+            "statement": "Plombier / plombière."
+          },
+          {
+            "code": "ia10",
+            "statement": "Technicien / technicienne en mécanique du bâtiment."
+          },
+          {
+            "code": "ia11",
+            "statement": "Conducteur / conductrice d’autobus."
+          },
+          {
+            "code": "ia12",
+            "statement": "Technicien / technicienne en entretien d’aéronefs."
+          },
+          {
+            "code": "ia13",
+            "statement": "Réparateur/ réparatrice de télévision."
+          },
+          {
+            "code": "ia14",
+            "statement": "Ingénieur / ingénieure civil."
+          },
+          {
+            "code": "ia5",
+            "statement": "Cuisinier / cuisinière."
+          }
+        ]
+      },
+      {
+        "profil": "Investigateur",
+        "code": "I",
+        "description": "C’est un intellectuel, il est curieux et analytique. L’investigateur aime résoudre des problèmes, a besoin de comprendre. Il est à l’aise avec les connaissances théoriques",
+        "questions": [
+          {
+            "code": "ia1",
+            "statement": "Ingénieur / ingénieure en chimie, physique."
+          },
+          {
+            "code": "ia2",
+            "statement": "Technicien / technicienne en laboratoire médical."
+          },
+          {
+            "code": "ia3",
+            "statement": "Chercheur / chercheuse scientifique."
+          },
+          {
+            "code": "ia4",
+            "statement": "Technicien / technicienne en radiologie (rayon X)."
+          },
+          {
+            "code": "ia5",
+            "statement": "Biologiste."
+          },
+          {
+            "code": "ia6",
+            "statement": "Technicien / technicienne en informatique."
+          },
+          {
+            "code": "ia7",
+            "statement": "Médecin ou vétérinaire."
+          },
+          {
+            "code": "ia8",
+            "statement": "Technicien / technicienne en transformation des produits forestiers."
+          },
+          {
+            "code": "ia9",
+            "statement": "Météorologiste."
+          },
+          {
+            "code": "ia10",
+            "statement": "Astronome (étudie le mouvement des astres dans le ciel)."
+          },
+          {
+            "code": "ia11",
+            "statement": "Technicien / technicienne en dessin conception mécanique."
+          },
+          {
+            "code": "ia12",
+            "statement": "Économiste."
+          },
+          {
+            "code": "ia13",
+            "statement": "Technicien / -cienne en procédés métallurgiques (spécialiste dans la transformation des métaux)."
+          },
+          {
+            "code": "ia14",
+            "statement": "Botaniste."
+          },
+          {
+            "code": "ia5",
+            "statement": "Technicien / -cienne en chimie analytique (analyse de nouveaux produits chimiques)."
+          }
+        ]
+      },
+      {
+        "profil": "Artiste",
+        "code": "A",
+        "description": "Il agit par rapport à ce qu’il ressent, il a de l’intuition. L’artiste aime créer, est non conformiste. Il a besoin d’un environnement de travail différent et apprend par l’expérimentation.",
+        "questions": [
+          {
+            "code": "a1",
+            "statement": "Musicien / musicienne."
+          },
+          {
+            "code": "a2",
+            "statement": "Écrivain / écrivaine."
+          },
+          {
+            "code": "a3",
+            "statement": "Fleuriste."
+          },
+          {
+            "code": "a4",
+            "statement": "Journaliste."
+          },
+          {
+            "code": "a5",
+            "statement": "Décorateur / décoratrice d’intérieur."
+          },
+          {
+            "code": "a6",
+            "statement": "Compositeur / compositrice (musique)."
+          },
+          {
+            "code": "a7",
+            "statement": "Mannequin."
+          },
+          {
+            "code": "a8",
+            "statement": "Photographe."
+          },
+          {
+            "code": "a9",
+            "statement": "Graphiste."
+          },
+          {
+            "code": "a10",
+            "statement": "Directeur de publicité."
+          },
+          {
+            "code": "a11",
+            "statement": "Architecte."
+          },
+          {
+            "code": "a12",
+            "statement": "Interprète."
+          },
+          {
+            "code": "a13",
+            "statement": "Chanteur / chanteuse."
+          },
+          {
+            "code": "a14",
+            "statement": "Comédien / comédienne."
+          },
+          {
+            "code": "a15",
+            "statement": "Professeur de dessin."
+          }
+        ]
+      },
+      {
+        "profil": "Social",
+        "code": "S",
+        "description": "Il agit par rapport à ce qu’il ressent, il a de l’intuition. L’artiste aime créer, est non conformiste. Il a besoin d’un environnement de travail différent et apprend par l’expérimentation.",
+        "questions": [
+          {
+            "code": "s1",
+            "statement": "Infirmier / infirmière auxiliaire."
+          },
+          {
+            "code": "a2",
+            "statement": "Agent / agente à l’aide sociale."
+          },
+          {
+            "code": "a3",
+            "statement": "Travailleur / travailleuse sociale."
+          },
+          {
+            "code": "a4",
+            "statement": "Barmaid / barman."
+          },
+          {
+            "code": "a5",
+            "statement": "Professeur à l’élémentaire."
+          },
+          {
+            "code": "a6",
+            "statement": "Technicien / technicienne en loisirs."
+          },
+          {
+            "code": "a7",
+            "statement": "Technicien / technicienne en garderie d’enfants."
+          },
+          {
+            "code": "a8",
+            "statement": "Orthophoniste, orthopédagogue (correction des troubles de l’apprentissage)."
+          },
+          {
+            "code": "a9",
+            "statement": "Esthéticien / esthéticienne."
+          },
+          {
+            "code": "a10",
+            "statement": "Technicien / technicienne policier / policière."
+          },
+          {
+            "code": "a11",
+            "statement": "Médecin généraliste (de famille)."
+          },
+          {
+            "code": "a12",
+            "statement": "Directeur / directrice du personnel."
+          },
+          {
+            "code": "a13",
+            "statement": "Bibliothécaire."
+          },
+          {
+            "code": "a14",
+            "statement": "Technicien / technicienne en hygiène dentaire."
+          },
+          {
+            "code": "a15",
+            "statement": "Technicien / technicienne en réadaptation physique."
+          }
+        ]
+      },
+      {
+        "profil": "Entrepreneur",
+        "code": "E",
+        "description": "Il agit par rapport à ce qu’il ressent, il a de l’intuition. L’artiste aime créer, est non conformiste. Il a besoin d’un environnement de travail différent et apprend par l’expérimentation.",
+        "questions": [
+          {
+            "code": "s1",
+            "statement": "Agent / agente de publicité (marketing)."
+          },
+          {
+            "code": "a2",
+            "statement": "Avocat / avocate."
+          },
+          {
+            "code": "a3",
+            "statement": "Agent / agente de bord."
+          },
+          {
+            "code": "a4",
+            "statement": "Chef de rayons de supermarché."
+          },
+          {
+            "code": "a5",
+            "statement": "Commis-vendeur / vendeuse."
+          },
+          {
+            "code": "a6",
+            "statement": "Directeur / directrice d’une entreprise."
+          },
+          {
+            "code": "a7",
+            "statement": "Politicien / politicienne."
+          },
+          {
+            "code": "a8",
+            "statement": "Directeur / directrice des ventes."
+          },
+          {
+            "code": "a9",
+            "statement": "Vendeur / vendeuse d’assurances."
+          },
+          {
+            "code": "a10",
+            "statement": "Gérant / gérante d’hôtel."
+          },
+          {
+            "code": "a11",
+            "statement": "Technicien / technicienne en tourisme."
+          },
+          {
+            "code": "a12",
+            "statement": "Propriétaire d’un commerce."
+          },
+          {
+            "code": "a13",
+            "statement": "Courtier / coutière en immeubles."
+          },
+          {
+            "code": "a14",
+            "statement": "Acheteur / acheteuse."
+          },
+          {
+            "code": "a15",
+            "statement": "Agent / agente de voyage."
+          }
+        ]
+      },
+      {
+        "profil": "Conventionnel",
+        "code": "C",
+        "description": "Il est ordonné, méticuleux. Il est structuré, procédurier, aime le travail de bureau. Le conventionnel a besoin de consignes et de méthodes pour apprendre.",
+        "questions": [
+          {
+            "code": "s1",
+            "statement": "Commis-comptable."
+          },
+          {
+            "code": "a2",
+            "statement": "Technicien / technicienne en finance (comptabilité)."
+          },
+          {
+            "code": "a3",
+            "statement": "Opérateur / opératrice en informatique."
+          },
+          {
+            "code": "a4",
+            "statement": "Secrétaire de service juridique, médical."
+          },
+          {
+            "code": "a5",
+            "statement": "Archiviste médical."
+          },
+          {
+            "code": "a6",
+            "statement": "Commis aux renseignements."
+          },
+          {
+            "code": "a7",
+            "statement": "Bibliotechnicien / bibliotechnicienne."
+          },
+          {
+            "code": "a8",
+            "statement": "Expert / experte en impôt."
+          },
+          {
+            "code": "a9",
+            "statement": "Caissier / caissière de banque."
+          },
+          {
+            "code": "a10",
+            "statement": "Réceptionniste."
+          },
+          {
+            "code": "a11",
+            "statement": "Commis au service de la paie."
+          },
+          {
+            "code": "a12",
+            "statement": "Gérant / gérante du service de crédits."
+          },
+          {
+            "code": "a13",
+            "statement": "Commis de bureau."
+          },
+          {
+            "code": "a14",
+            "statement": "Sténodactylo, opérateur (-trice) de saisie."
+          },
+          {
+            "code": "a15",
+            "statement": "Technicien / technicienne judiciaire (aux greffes)."
+          }
+        ]
+      }
+    ]
+  },
+  "step 3":  {
+    "id": 3 ,
+    "label": "Aptitudes",
+    "questions": [
+      {
+        "profil": "Realite",
+        "code": "R",
+        "description": "il est débrouillard et pragmatique. Le réaliste aime le concret, le terrain.",
+        "questions": [
+          {
+            "code": "ia1",
+            "statement": "Ma capacité à soulever des poids lourds est :"
+          },
+          {
+            "code": "ia2",
+            "statement": "Ma capacité à utiliser des outils, des objets, des machines avec précision est:"
+          },
+          {
+            "code": "ia3",
+            "statement": "Mon habileté à conduire un gros véhicule (camion, autobus) est :"
+          },
+          {
+            "code": "ia4",
+            "statement": "Mon aptitude à lire des plans est :"
+          },
+          {
+            "code": "ia5",
+            "statement": "Mon habileté dans les mouvements demandant à voir et à manipuler en même temps est :"
+          },
+          {
+            "code": "ia6",
+            "statement": "Ma capacité à comprendre le fonctionnement des éléments de base de tout ouvrage mécanique, électrique (turbine, moteur, pompe…) est :"
+          },
+          {
+            "code": "ia7",
+            "statement": "La rapidité de mes réflexes est :"
+          },
+          {
+            "code": "ia8",
+            "statement": "Mon habileté à faire des réparations est :"
+          },
+          {
+            "code": "ia9",
+            "statement": "Ma capacité à m’occuper d’élevage d’animaux est :"
+          },
+          {
+            "code": "ia10",
+            "statement": "Ma capacité à installer et à manipuler divers outils, machines ou appareils est :"
+          }
+        ]
+      },
+      {
+        "profil": "Investigateur",
+        "code": "I",
+        "description": "C’est un intellectuel, il est curieux et analytique. L’investigateur aime résoudre des problèmes, a besoin de comprendre. Il est à l’aise avec les connaissances théoriques",
+        "questions": [
+          {
+            "code": "ia1",
+            "statement": "Mes aptitudes en mathématiques sont :"
+          },
+          {
+            "code": "ia2",
+            "statement": "Mes capacités en sciences (biologie, physique, chimie) sont :"
+          },
+          {
+            "code": "ia3",
+            "statement": "Ma capacité d’analyse est :"
+          },
+          {
+            "code": "ia4",
+            "statement": "Ma capacité de synthèse est :"
+          },
+          {
+            "code": "ia5",
+            "statement": "Mon talent à rédiger clairement un texte est :"
+          },
+          {
+            "code": "ia6",
+            "statement": "Mon talent à rédiger clairement un texte est :"
+          },
+          {
+            "code": "ia7",
+            "statement": "Ma capacité à saisir et comprendre des directives rapidement est :"
+          },
+          {
+            "code": "ia8",
+            "statement": "Mon habileté à apprendre des nouveaux sujets avec facilité et avec aise est :"
+          },
+          {
+            "code": "ia9",
+            "statement": "Mon habileté à solutionner des problèmes abstraits est :"
+          },
+          {
+            "code": "ia10",
+            "statement": "Mon habileté à faire des travaux de laboratoire est :"
+          }
+        ]
+      },
+      {
+        "profil": "Artiste",
+        "code": "A",
+        "description": "Il agit par rapport à ce qu’il ressent, il a de l’intuition. L’artiste aime créer, est non conformiste. Il a besoin d’un environnement de travail différent et apprend par l’expérimentation.",
+        "questions": [
+          {
+            "code": "a1",
+            "statement": "Ma capacité à me représenter la forme d’objets en deux ou trois dimensions est :"
+          },
+          {
+            "code": "a2",
+            "statement": "Ma capacité à apprendre des langues, y compris ma langue maternelle est :"
+          },
+          {
+            "code": "a3",
+            "statement": "Mon aptitude en arts plastiques (dessin, sculpture, peinture, etc.) est :"
+          },
+          {
+            "code": "a4",
+            "statement": "Mon aptitude dans les arts de la scène (théâtre, danse, musique, etc.)est :"
+          },
+          {
+            "code": "a5",
+            "statement": "Ma capacité d’inventer, de créer, de concevoir est :"
+          },
+          {
+            "code": "a6",
+            "statement": "Ma capacité à accepter la critique est :"
+          },
+          {
+            "code": "a7",
+            "statement": "Ma capacité à travailler par moi-même est :"
+          },
+          {
+            "code": "a8",
+            "statement": "Mon aptitude à exprimer concrètement mes idées créatrices dans le médium de mon choix (musique, écriture, danse, dessin, etc.)est :"
+          },
+          {
+            "code": "a9",
+            "statement": "Mon aptitude à tolérer l’insécurité (peur du lendemain) est :"
+          },
+          {
+            "code": "a10",
+            "statement": "Mon habileté à observer les légères différences de forme ou de teinte est :"
+          }
+        ]
+      },
+      {
+        "profil": "Social",
+        "code": "S",
+        "description": "Il agit par rapport à ce qu’il ressent, il a de l’intuition. L’artiste aime créer, est non conformiste. Il a besoin d’un environnement de travail différent et apprend par l’expérimentation.",
+        "questions": [
+          {
+            "code": "s1",
+            "statement": "Mon aptitude à travailler en équipe est :"
+          },
+          {
+            "code": "a2",
+            "statement": "Mon sens de l’organisation est :"
+          },
+          {
+            "code": "a3",
+            "statement": "Ma faculté de prévoir, de deviner (intuition) est :"
+          },
+          {
+            "code": "a4",
+            "statement": "Ma capacité à diriger des interactions dans un groupe (animation) est :"
+          },
+          {
+            "code": "a5",
+            "statement": "Ma capacité à maintenir des relations suivies avec les gens est :"
+          },
+          {
+            "code": "a6",
+            "statement": "Mon aptitude à être touché/e par les émotions des autres tout en demeurant objectif (empathie) est :"
+          },
+          {
+            "code": "a7",
+            "statement": "Ma capacité à réagir correctement devant les situations qui se présentent (équilibre émotionnel) est :"
+          },
+          {
+            "code": "a8",
+            "statement": "Ma capacité à aider les autres, à les comprendre, à les écouter est :"
+          },
+          {
+            "code": "a9",
+            "statement": "Ma capacité à expliquer les choses clairement est :"
+          },
+          {
+            "code": "a10",
+            "statement": "Ma capacité à communiquer avec les autres est :"
+          }
+        ]
+      },
+      {
+        "profil": "Entrepreneur",
+        "code": "E",
+        "description": "Il agit par rapport à ce qu’il ressent, il a de l’intuition. L’artiste aime créer, est non conformiste. Il a besoin d’un environnement de travail différent et apprend par l’expérimentation.",
+        "questions": [
+          {
+            "code": "s1",
+            "statement": "Ma facilité à m’exprimer en public est :"
+          },
+          {
+            "code": "a2",
+            "statement": "Mon talent pour vendre est :"
+          },
+          {
+            "code": "a3",
+            "statement": "Mon sens des affaires est :"
+          },
+          {
+            "code": "a4",
+            "statement": "Mon habileté à diriger, à mener les autres est :"
+          },
+          {
+            "code": "a5",
+            "statement": "Ma capacité à prendre une décision seul/e est :"
+          },
+          {
+            "code": "a6",
+            "statement": "Mon habileté à me faire valoir en société est :"
+          },
+          {
+            "code": "a7",
+            "statement": "Mon aptitude à défendre une cause est :"
+          },
+          {
+            "code": "a8",
+            "statement": "Ma capacité à être le premier/ière à proposer ou à faire quelque chose est :"
+          },
+          {
+            "code": "a9",
+            "statement": "Mon talent pour persuader les gens est :"
+          },
+          {
+            "code": "a10",
+            "statement": "Ma capacité à demeurer enthousiaste et énergique même en situation difficile est :"
+          }
+        ]
+      },
+      {
+        "profil": "Conventionnel",
+        "code": "C",
+        "description": "Il est ordonné, méticuleux. Il est structuré, procédurier, aime le travail de bureau. Le conventionnel a besoin de consignes et de méthodes pour apprendre.",
+        "questions": [
+          {
+            "code": "s1",
+            "statement": "Ma capacité à me conformer aux règles établies est :"
+          },
+          {
+            "code": "a2",
+            "statement": "Mon aptitude à travailler avec précision est :"
+          },
+          {
+            "code": "a3",
+            "statement": "Ma capacité à disposer les choses selon le rang, la place qui leur convient est :"
+          },
+          {
+            "code": "a4",
+            "statement": "Mon aptitude en français est :"
+          },
+          {
+            "code": "a5",
+            "statement": "Mon aptitude à travailler avec les chiffres est :"
+          },
+          {
+            "code": "a6",
+            "statement": "Ma capacité à observer les détails est :"
+          },
+          {
+            "code": "a7",
+            "statement": "Ma capacité à m’adapter à un travail routinier est :"
+          },
+          {
+            "code": "a8",
+            "statement": "Ma capacité à tenir des dossiers et des registres à jour est :"
+          },
+          {
+            "code": "a9",
+            "statement": "Ma capacité à comprendre et à exécuter des instructions est :"
+          },
+          {
+            "code": "a10",
+            "statement": "Mon aptitude à comprendre les structures administratives est :"
+          }
+        ]
+      }
+    ]
+  },
+   "step 4":  {
+    "id": 4 ,
+    "label": "Personnalités :",
+    "questions": [
+      {
+        "profil": "Realite",
+        "code": "R",
+        "description": "il est débrouillard et pragmatique. Le réaliste aime le concret, le terrain.",
+        "questions": [
+          {
+            "code": "ia1",
+            "statement": "Je suis conformiste, je me plie facilement aux règlements du milieu où je vis."
+          },
+          {
+            "code": "ia2",
+            "statement": "Généralement, j’évite de me faire remarquer."
+          },
+          {
+            "code": "ia3",
+            "statement": "J’aime les choses matérielles, concrètes."
+          },
+          {
+            "code": "ia4",
+            "statement": "Dans mon travail ou autres, je me montre persistant/e"
+          },
+          {
+            "code": "ia5",
+            "statement": "Je démontre un esprit d’équipe pratique et je préfère agir plutôt que de discuter trop longuement de ce que l’on va faire."
+          },
+          {
+            "code": "ia6",
+            "statement": "Je suis d’un naturel réservé ; pour savoir mon opinion, on doit me le demander."
+          },
+          {
+            "code": "ia7",
+            "statement": "Je suis porté/e à ménager et à prendre soin de mes biens."
+          },
+          {
+            "code": "ia8",
+            "statement": "Je suis stable dans mes opinions, ma façon de vivre, mes amitiés."
+          },
+          {
+            "code": "ia9",
+            "statement": "je me présente toujours au naturel, tel que je suis."
+          },
+          {
+            "code": "ia10",
+            "statement": "Avec mon entourage, je suis franc/che et sincère."
+          }
+        ]
+      },
+      {
+        "profil": "Investigateur",
+        "code": "I",
+        "description": "C’est un intellectuel, il est curieux et analytique. L’investigateur aime résoudre des problèmes, a besoin de comprendre. Il est à l’aise avec les connaissances théoriques",
+        "questions": [
+          {
+            "code": "ia1",
+            "statement": "J'analyse les idées, les événements, ce qui se passe autour de moi."
+          },
+          {
+            "code": "ia2",
+            "statement": "J’ai l’esprit critique et n’accepte pas facilement n’importe quelle idée."
+          },
+          {
+            "code": "ia3",
+            "statement": "Je suis d’un naturel très curieux sur à peu près tout."
+          },
+          {
+            "code": "ia4",
+            "statement": "Je tiens à mon indépendance sur le plan des idées, du travail, etc."
+          },
+          {
+            "code": "ia5",
+            "statement": "Les gens me considèrent comme une personne intellectuelle plutôt qu’émotive."
+          },
+          {
+            "code": "ia6",
+            "statement": "J’ai l’esprit inventif : il m’arrive souvent de trouver une solution originale et efficace à un problème."
+          },
+          {
+            "code": "ia7",
+            "statement": "Dans mes activités scolaires ou autres, je me montre méthodique et rationnel/le."
+          },
+          {
+            "code": "ia8",
+            "statement": "J’aime la précision dans tout ce que je fais."
+          },
+          {
+            "code": "ia9",
+            "statement": "Je demeure réservé/e dans l’expression de mes opinions, de mes sentiments et de mes actes."
+          },
+          {
+            "code": "ia10",
+            "statement": "Avant toute décision, je réunis le maximum d’information possible."
+          }
+        ]
+      },
+      {
+        "profil": "Artiste",
+        "code": "A",
+        "description": "Il agit par rapport à ce qu’il ressent, il a de l’intuition. L’artiste aime créer, est non conformiste. Il a besoin d’un environnement de travail différent et apprend par l’expérimentation.",
+        "questions": [
+          {
+            "code": "a1",
+            "statement": "Quand un problème se pose, je préfère le régler par la discussion et l’entente avec les gens qui m’entourent."
+          },
+          {
+            "code": "a2",
+            "statement": "Je sais me montrer souple, conciliant/e"
+          },
+          {
+            "code": "a3",
+            "statement": "Mes amis/es me considèrent comme bienveillant et compréhensif/ve."
+          },
+          {
+            "code": "a4",
+            "statement": "Généralement, les gens peuvent compter sur ma coopération."
+          },
+          {
+            "code": "a5",
+            "statement": "Les gens me qualifient de sociable et sympathique."
+          },
+          {
+            "code": "a6",
+            "statement": "Je suis d’un naturel serviable."
+          },
+          {
+            "code": "a7",
+            "statement": "J’accepte et j’assume des responsabilités."
+          },
+          {
+            "code": "a8",
+            "statement": "On me considère généreux/se."
+          },
+          {
+            "code": "a9",
+            "statement": "Dans la majorité des circonstances, je suis perspicace, clairvoyant/e."
+          },
+          {
+            "code": "a10",
+            "statement": "Dans l’action comme dans la façon de m’exprimer, je montre de la délicatesse."
+          }
+        ]
+      },
+      {
+        "profil": "Social",
+        "code": "S",
+        "description": "Il agit par rapport à ce qu’il ressent, il a de l’intuition. L’artiste aime créer, est non conformiste. Il a besoin d’un environnement de travail différent et apprend par l’expérimentation.",
+        "questions": [
+          {
+            "code": "s1",
+            "statement": "Quand un problème se pose, je préfère le régler par la discussion et l’entente avec les gens qui m’entourent."
+          },
+          {
+            "code": "a2",
+            "statement": "Je sais me montrer souple, conciliant/e"
+          },
+          {
+            "code": "a3",
+            "statement": "Mes amis/es me considèrent comme bienveillant et compréhensif/ve."
+          },
+          {
+            "code": "a4",
+            "statement": "Généralement, les gens peuvent compter sur ma coopération."
+          },
+          {
+            "code": "a5",
+            "statement": "Les gens me qualifient de sociable et sympathique."
+          },
+          {
+            "code": "a6",
+            "statement": "Je suis d’un naturel serviable."
+          },
+          {
+            "code": "a7",
+            "statement": "J’accepte et j’assume des responsabilités."
+          },
+          {
+            "code": "a8",
+            "statement": "On me considère généreux/se."
+          },
+          {
+            "code": "a9",
+            "statement": "Dans la majorité des circonstances, je suis perspicace, clairvoyant/e."
+          },
+          {
+            "code": "a10",
+            "statement": "Dans l’action comme dans la façon de m’exprimer, je montre de la délicatesse."
+          }
+        ]
+      },
+      {
+        "profil": "Entrepreneur",
+        "code": "E",
+        "description": "Il agit par rapport à ce qu’il ressent, il a de l’intuition. L’artiste aime créer, est non conformiste. Il a besoin d’un environnement de travail différent et apprend par l’expérimentation.",
+        "questions": [
+          {
+            "code": "s1",
+            "statement": "L’ambition ne m’effraie pas."
+          },
+          {
+            "code": "a2",
+            "statement": "Je suis un/e optimiste né/e."
+          },
+          {
+            "code": "a3",
+            "statement": "Je suis sociable et populaire ; je parle à tout le monde."
+          },
+          {
+            "code": "a4",
+            "statement": "Je défends toujours mes opinions."
+          },
+          {
+            "code": "a5",
+            "statement": "Il m’arrive souvent de me montrer autoritaire."
+          },
+          {
+            "code": "a6",
+            "statement": "L’aventure m’attire beaucoup."
+          },
+          {
+            "code": "a7",
+            "statement": "Généralement, je suis sûr/e de moi."
+          },
+          {
+            "code": "a8",
+            "statement": "Mes impulsions me dictent souvent ma conduite."
+          },
+          {
+            "code": "a9",
+            "statement": "J’aime être responsable d’activités."
+          },
+          {
+            "code": "a10",
+            "statement": "Même dans des situations critiques ou tendues, je sais prendre l’initiative nécessaire."
+          }
+        ]
+      },
+      {
+        "profil": "Conventionnel",
+        "code": "C",
+        "description": "Il est ordonné, méticuleux. Il est structuré, procédurier, aime le travail de bureau. Le conventionnel a besoin de consignes et de méthodes pour apprendre.",
+        "questions": [
+          {
+            "code": "s1",
+            "statement": "Je suis maître de moi, d’un calme exemplaire."
+          },
+          {
+            "code": "a2",
+            "statement": "J’obéis facilement aux règlements et aux ordres."
+          },
+          {
+            "code": "a3",
+            "statement": "Dans mes travaux, je suis persistant/e et consciencieux/se."
+          },
+          {
+            "code": "a4",
+            "statement": "Je m’efforce de me montrer compétent dans ce qu’on exige de moi."
+          },
+          {
+            "code": "a5",
+            "statement": "L’esprit concret et pratique me guide."
+          },
+          {
+            "code": "a6",
+            "statement": "J’agis méthodiquement dans tout ce que je fais."
+          },
+          {
+            "code": "a7",
+            "statement": "Je travaille avec beaucoup de soin."
+          },
+          {
+            "code": "a8",
+            "statement": "D’une journée à l’autre, j’aime exécuter des tâches semblables."
+          },
+          {
+            "code": "a9",
+            "statement": "Je suis timide et je préfère garder pour moi mes sentiments, mes émotions et mes idées."
+          },
+          {
+            "code": "a10",
+            "statement": "J’aime recevoir des instructions bien claires qui me permettent de savoir exactement ce qu’on attend de moi."
+          }
+        ]
+      }
+    ]
+  }
+}
